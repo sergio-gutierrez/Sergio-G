@@ -1,2 +1,2 @@
-# HPMMS
-Hydroponic Plant Maintenance and Monitoring System
+# PMMS
+Plant Maintenance and Monitoring System
