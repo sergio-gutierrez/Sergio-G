@@ -29,5 +29,4 @@ Work will be broken down into three stages.
   Stage 2:
     - calender integrtion along with previous features 
     - further feature implementation
-  Stage 3: 
-    - block diagram integration with calender
+
