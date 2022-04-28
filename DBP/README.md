@@ -21,7 +21,3 @@ BBP is a Daily Budget and Planner web application with the purpsose of helping t
     - have database of inputed places where you spent money to make inputting spending easier
 ```
 
-## Workflow: *tentative*
-```
-  
-```
