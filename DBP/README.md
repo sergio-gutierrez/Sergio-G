@@ -20,4 +20,14 @@ BBP is time/day/week planner web application with the purpsose of helping those 
     - compare spending to pre-determined budget
     - have database of inputed places where you spent money to make inputting spending easier
 ```
-
+## Workflow
+```
+Work will be broken down into three stages.
+  Stage 1:
+    - more of a list format
+    - daily task with times
+  Stage 2:
+    - calender integrtion along with previous features 
+    - further feature implementation
+  Stage 3: 
+    - block diagram integration with calender
