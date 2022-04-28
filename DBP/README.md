@@ -1,6 +1,6 @@
 # DBP
 
-BBP is a Daily Budget and Planner web application with the purpsose of helping those (msyself included) control of their time 
+BBP is time/day/week planner web application with the purpsose of helping those (msyself included) manage their time more efficiently
 
 ## Use Cases/Functionality:
 ```
