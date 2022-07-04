@@ -1,6 +1,6 @@
 # DBP
 
-BBP is time/day/week planner web application with the purpsose of helping those (msyself included) manage their time more efficiently
+BBP is time/day/weekly task planner application with the purpsose of helping those (msyself included) manage their time more efficiently
 
 ## Use Cases/Functionality:
 ```
@@ -11,7 +11,7 @@ BBP is time/day/week planner web application with the purpsose of helping those 
       -- make notes/descriptions
     
   Planner
-    - for less visual people, method to keep track of daily and monthly tasks/events.
+    - method to keep track of daily and monthly tasks/events.
     
   Monitor Daily Expenses
     - manually input purchases
@@ -20,13 +20,4 @@ BBP is time/day/week planner web application with the purpsose of helping those 
     - compare spending to pre-determined budget
     - have database of inputed places where you spent money to make inputting spending easier
 ```
-## Workflow
-```
-Work will be broken down into three stages.
-  Stage 1:
-    - more of a list format
-    - daily task with times
-  Stage 2:
-    - calender integrtion along with previous features 
-    - further feature implementation
 
