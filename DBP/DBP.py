@@ -9,7 +9,7 @@ class GUI:
         self.frame_tasks = LabelFrame(master, text =  "Tasks To Do")
         self.frame_tasks.grid(row =0, column = 0)
         
-        self.test_button = Button(self.frame_tasks, text = "test")
+        self.test_button = Button(self.frame_tasks, text = "test", command = self.greet_button)
         self.test_button.grid(row = 3, column = 3)
 
         self.greet_button = Button(master, text="Greet", command=self.greet).grid(row = 3, column = 2, pady = 2)
@@ -24,7 +24,9 @@ class GUI:
     def greet(self):
         print("Greetings!")
 
-    #this is test commit
+    def greet_button(self):
+        greeting = Label(self.frame_tasks, text = "please i hope this prints").grid(row = 1, column = 1)
+
     
     
 
